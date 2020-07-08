@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yyswys.github.io/"/>
-  <updated>2020-07-08T17:01:10.493Z</updated>
+  <updated>2020-07-08T17:20:01.360Z</updated>
   <id>https://yyswys.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="https://yyswys.github.io/2020/07/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://yyswys.github.io/2020/07/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://yyswys.github.io/2020/07/08/MyFirstArticle/"/>
+    <id>https://yyswys.github.io/2020/07/08/MyFirstArticle/</id>
     <published>2020-07-08T14:58:02.000Z</published>
-    <updated>2020-07-08T17:01:10.493Z</updated>
+    <updated>2020-07-08T17:20:01.360Z</updated>
     
     <content type="html"><![CDATA[<h1 id="7月8日日记"><a href="#7月8日日记" class="headerlink" title=" 7月8日日记"></a> 7月8日日记</h1><h2 id="今日所得"><a href="#今日所得" class="headerlink" title=" 今日所得"></a> 今日所得</h2><p><em>成功搭建个人博客，暂未熟悉，日后再更进进程。</em><br>PS.这是本人QQ空间主页的链接:<em>[wx的QQ空间]</em>(<a href="https://user.qzone.qq.com/2230618326/main" target="_blank" rel="noopener">https://user.qzone.qq.com/2230618326/main</a>)</p>]]></content>
     
@@ -35,6 +35,8 @@
     </summary>
     
     
+      <category term="uncategorized" scheme="https://yyswys.github.io/categories/uncategorized/"/>
+    
     
   </entry>
   
@@ -43,7 +45,7 @@
     <link href="https://yyswys.github.io/2020/07/08/hello-world/"/>
     <id>https://yyswys.github.io/2020/07/08/hello-world/</id>
     <published>2020-07-08T14:44:32.353Z</published>
-    <updated>2020-07-08T14:44:32.353Z</updated>
+    <updated>2020-07-08T17:20:01.356Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
@@ -56,6 +58,8 @@
     
     </summary>
     
+    
+      <category term="uncategorized" scheme="https://yyswys.github.io/categories/uncategorized/"/>
     
     
   </entry>
