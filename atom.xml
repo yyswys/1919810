@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://yyswys.github.io/"/>
   <updated>2020-07-08T17:01:10.493Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://yyswys.github.io/</id>
   
   <author>
     <name>Woundcii</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="http://yoursite.com/2020/07/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2020/07/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://yyswys.github.io/2020/07/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://yyswys.github.io/2020/07/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2020-07-08T14:58:02.000Z</published>
     <updated>2020-07-08T17:01:10.493Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/07/08/hello-world/"/>
-    <id>http://yoursite.com/2020/07/08/hello-world/</id>
+    <link href="https://yyswys.github.io/2020/07/08/hello-world/"/>
+    <id>https://yyswys.github.io/2020/07/08/hello-world/</id>
     <published>2020-07-08T14:44:32.353Z</published>
     <updated>2020-07-08T14:44:32.353Z</updated>
     
